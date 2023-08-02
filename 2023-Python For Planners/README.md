@@ -10,7 +10,7 @@ The workshop also includes an interactive Python introduction designed specifica
 Join us for “Python for Planners” to learn, interact, and discover how Python can enhance your urban planning approach. This workshop sets out to bridge the gap between urban planning and Python, setting you on a path to make more data-informed decisions. We look forward to engaging with you on this educational journey.
 
 ## Date 
-March 31, 2021
+August 3, 2023   
 
 ## Featured Webinar
 [![Webinar Title](http://img.youtube.com/vi/gVa4d728T0k/0.jpg)](https://www.nyplanning.org/events/python-for-planners/ "GitHub for Planners")
