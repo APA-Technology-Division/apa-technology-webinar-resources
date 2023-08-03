@@ -13,6 +13,7 @@ March 31, 2021
 
 For more information and resources, please visit the following links:
 
+- [PSRC GitHub Tutorial](https://psrc.github.io/git-tutorial/)
 - [APA Technology Division Github Page](https://github.com/APA-Technology-Division)
 - [More Resources on Urban and Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)
 - [APA Technology Division Website](https://tech.planning.org/)
