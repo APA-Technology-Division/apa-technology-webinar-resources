@@ -9,11 +9,10 @@ The workshop also includes an interactive Python introduction designed specifica
 
 Join us for “Python for Planners” to learn, interact, and discover how Python can enhance your urban planning approach. This workshop sets out to bridge the gap between urban planning and Python, setting you on a path to make more data-informed decisions. We look forward to engaging with you on this educational journey.
 
-## Date 
-August 3, 2023   
+## Date
+August 3, 2023
 
 ## Featured Webinar
-[![Webinar Title](http://img.youtube.com/vi/gVa4d728T0k/0.jpg)](https://www.nyplanning.org/events/python-for-planners/ "GitHub for Planners")
 [Watch the full video here](https://www.nyplanning.org/events/python-for-planners/)
 
 ---
@@ -23,6 +22,6 @@ August 3, 2023
 For more information and resources, please visit the following links:
 
 - [APA NY Technology Committee Webpage](https://www.nyplanning.org/committee/technology/)
-- [APA Technology Division Github Page](https://github.com/APA-Technology-Division)
+- [APA Technology Division GitHub Page](https://github.com/APA-Technology-Division)
 - [More Resources on Urban and Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)
 - [APA Technology Division Website](https://tech.planning.org/)
